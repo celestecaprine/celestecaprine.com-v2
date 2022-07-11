@@ -136,17 +136,25 @@ url = "/index.xml"
 weight = 5
 
 [[menu.link]]
-name = "GitHub"
-url = "https://github.com/celestecaprine"
+name = "Cohost"
+url = "https://cohost.org/celestecaprine"
 weight = 1
 [[menu.link]]
 name = "Twitter"
 url = "https://twitter.com/celestecaprine"
+weight = 1
+[[menu.link]]
+name = "Ko-Fi"
+url = "https://ko-fi.com/celestecaprine"
 weight = 2
+[[menu.link]]
+name = "GitHub"
+url = "https://github.com/celestecaprine"
+weight = 3
 [[menu.link]]
 name = "My Discord Server"
 url = "https://discord.gg/coneyponey"
-weight = 2
+weight = 4
 
 [build]
 noJSConfigInAssets = true
