@@ -1,5 +1,5 @@
 baseURL = "https://celestecaprine.com"
-title = "CelesteCaprine's Site"
+title = "CelesteCaprine"
 
 theme = "fuji"
 enableEmoji = true
@@ -11,7 +11,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 languageCode = "en"           # For RSS, view https://www.rssboard.org/rss-language-codes
 defaultContentLanguage = "en" # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl, it
 
-summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
+summaryLength = 40 # Custom summary length, add <!--more--> in post file to custom split point
 paginate = 10
 
 # googleAnalytics = "UA-000000000-0" # Set your Google Analytics UA here
@@ -35,7 +35,7 @@ subTitle = "Incoherent equine ramblings"
 defaultTheme = "dark"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
-sourceURL = "https://github.com/dsrkafuu/hugo-theme-fuji"
+sourceURL = "https://github.com/celestecaprine/celestecaprine.com-v2"
 
 # Use CloudFlare Workers to accelerate the Google Analytics
 # If you are using this please comment the googleAnalytics above
