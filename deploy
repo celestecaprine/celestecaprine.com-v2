@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=root
+HOST=np-webserver
+DIR=/var/www/celestecaprine.com/html/
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+
+exit 0
